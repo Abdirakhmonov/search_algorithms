@@ -1,3 +1,4 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+- Initial release of the search_algorithms package.
+- Added Linear Search, Binary Search, and Jump Search algorithms with timing information.

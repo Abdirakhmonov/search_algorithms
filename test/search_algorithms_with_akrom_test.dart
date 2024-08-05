@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:search_algorithms/search_algorithms.dart';
+import 'package:search_algorithms/search_algorithms_with_akrom.dart';
 
 void main() {
   group('Search Algorithms', () {
